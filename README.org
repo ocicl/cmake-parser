@@ -1,0 +1,10 @@
+* cmake-parser
+
+A cmake script parser.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/zbq/cmake-parser.git   |
+| commit  | 276b541  |
+| systems | cmake-parser |
+|---------+-------------------------------------------|
+
